@@ -1,3 +1,5 @@
 dogImages
 lfw
+model_transfer.pt
+model_scratch.pt
 __MACOSX/._lfw
